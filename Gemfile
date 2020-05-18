@@ -30,7 +30,7 @@ gem 'spring',        group: :development
 # External Gem That Included
 gem 'pg'
 gem 'devise'
-gem 'bootstrap-sass', '~> 3.2.0.3'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'haml'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
